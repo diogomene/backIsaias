@@ -75,8 +75,10 @@ const autores= [{id:0,nome:"Cora Coralina",
                 e aos pássaros cantores
                 que têm seus ninhos nas altas e floridas
                 frondes.
-                Eu voltarei…`}
-
+                Eu voltarei…`},
+                {titulo:"Meu Livro de Cordel",
+                conteudo:"",
+                link:"http://escola.semec.pmt.pi.gov.br/wp-content/uploads/2020/04/Meu-Livro-de-Cordel-Cora-Coralina.pdf"}
             ]},
             {
                 id:1,
@@ -98,8 +100,8 @@ const autores= [{id:0,nome:"Cora Coralina",
 Ariano traz uma visão cristã sem se aprofundar em discussões teológicas, denunciando o preconceito, a corrução e a hipocrisia. No dia 11 de setembro de 1956 estreia a peça no Teatro Santa Isabel. No ano seguinte, a peça é levada para o Rio de Janeiro e apresentada no 1.º Festival de amadores nacionais.`,
                 sucesso:"O Auto da Compadecida",
                 obras:[
-                    {titulo:"O Auto do Compadecida",
-                    conteudo:"",
+                    {titulo:"O Auto da Compadecida",
+                    conteudo:`O "Auto da Compadecida" consegue o equilíbrio perfeito entre a tradição popular e a elaboração literária ao recriar para o teatro episódios registrados na tradição popular do cordel. É uma peça teatral em forma de Auto em 3 atos, escrita em 1955 pelo autor paraibano Ariano Suassuna. Sendo um drama do Nordeste brasileiro, mescla elementos como a tradição da literatura de cordel, a comédia, traços do barroco católico brasileiro e, ainda, cultura popular e tradições religiosas. Apresenta na escrita traços de linguagem oral [demonstrando, na fala do personagem, sua classe social] e apresenta também regionalismos relativos ao Nordeste. Esta peça projetou Suassuna em todo o país e foi considerada, em 1962, por Sábato Magaldi "o texto mais popular do moderno teatro brasileiro".`,
                     link:"https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj7wZv2mNrxAhW9rpUCHS4rAvsQFjAAegQIBRAD&url=https%3A%2F%2Faedmoodle.ufpa.br%2Fmod%2Fresource%2Fview.php%3Fid%3D151346&usg=AOvVaw1v6tfuJt-Jvc29AIBrZ8DB"}]
             }
         ];
